@@ -1,6 +1,6 @@
 <h2 align='center'> Hi there! I'm Peter 👋 </h2>
 
-- 🔭 I’m currently working on TBD ...
+- 🔭 I’m currently working on Developer Week Enterprise 2022 Hackathon (Four Space Monkeys)
 - 🌱 I’m currently learning about Vue.js & DSA on [LeetCode](https://leetcode.com/).
 - 👯 I’m looking to collaborate on web or mobile applications using JavaScript, and related libraries. 
 - 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/petermcbride61/).
