@@ -1,7 +1,10 @@
 <h2 align='center'> Hi there! I'm Peter 👋 </h2>
 
+<h3 align='center'> Check Out My Portfolio </h3>
+<h4 align='center'> www.petermcb.com </h4>
+
+
 - 🔭 I’m currently working on FeedMe, a mobile application to swipe on different food based on Google API.
-- 🌱 I recently finished my portfolio, check it out >>> 
 - 👯 I’m looking to collaborate on web or mobile applications using JS, React Native, and related libraries. 
 - 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/petermcbride61/).
 - Recently got 2nd place in Developer Week's Enterprise 2022 Hackathon, https://www.linkedin.com/posts/agora-lab-inc_poweredbyagora-poweredbyagora-activity-7003427046282383362-sNE7?utm_source=share&utm_medium=member_desktop
